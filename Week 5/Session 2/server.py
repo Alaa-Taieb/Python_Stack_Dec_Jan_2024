@@ -1,0 +1,9 @@
+from flask_app import app
+from flask_app.models.burger import Burger
+from flask_app.controllers import burgers , orders
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
+    
+
