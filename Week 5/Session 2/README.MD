@@ -1,4 +1,3 @@
 ## Lecture 
-- Introduce the PyMySQL library
-- Introduce the MVC architecture
-- Introduce the '_ _ init _ _.py' file
+- Continue working on the update and delete for the Burger table
+- Introduce the Orders table which has a One to Many relationship with the Burgers table
